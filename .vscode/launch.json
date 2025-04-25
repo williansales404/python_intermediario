@@ -29,3 +29,8 @@
         }
     ]
 }
+{
+    // ...existing code...
+    "editor.inlineSuggest.enabled": false // Desativa sugestões inline, incluindo as do Copilot
+    // ...existing code...
+}
