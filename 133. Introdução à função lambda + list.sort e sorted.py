@@ -24,6 +24,7 @@ lista = [
     {'nome': 'Aline', 'sobrenome': 'Souza'},
 ]
 
+'''#professor
 # def exibir(lista):
 #     for item in lista:
 #         print(item)
@@ -34,6 +35,7 @@ lista = [
 
 # exibir(l1)
 # exibir(l2)
+'''
 
 '''########## entendo ###################
 #primeira solição
@@ -56,4 +58,3 @@ l2 = sorted(lista, key=lambda item: item['sobrenome'])
 exibir(l1)
 exibir(l2)
 '''
-
